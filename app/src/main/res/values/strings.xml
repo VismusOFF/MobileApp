@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Лампочка">0</string>
+    <string name="count_btn">Count</string>
+    <string name="toast_btn">Toast</string>
+    <string name="random_btn">Random</string>
+    <string name="_0_1d">Это случайное число между 0 и %1d.</string>
+    <string name="r">R</string>
+    <string name="random_heading" />
+</resources>
